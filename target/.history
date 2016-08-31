@@ -1,2 +1,5 @@
 help
 mkdir -p src/main/scala
+reload
+test
+~test
