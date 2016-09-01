@@ -3,3 +3,6 @@ mkdir -p src/main/scala
 reload
 test
 ~test
+console
+cd src/test/scala
+ls
